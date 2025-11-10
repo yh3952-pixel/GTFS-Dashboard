@@ -1,8 +1,3 @@
-完美 ✅ 这是最终英文版的 **`README.md`**，你可以直接复制整段内容粘贴到项目根目录保存为 `README.md`：
-
----
-
-```markdown
 # 🗽 GTFS-Dashboard
 
 A lightweight **Streamlit dashboard** for visualizing and analyzing **New York City transportation (MTA GTFS)** data — including subway, bus, LIRR, and MNR.
@@ -75,15 +70,7 @@ Then open the displayed local URL (usually [http://localhost:8501](http://localh
   If needed, re-generate locally or provide download scripts.
 * SSL certificate files (`.pem`) are **private** and should never be committed.
 
----
 
-## 👤 Author
-
-**yh3952-pixel**
-📧 [yh3952@columbia.edu](mailto:yh3952@columbia.edu)
-M.S. Mechanical Engineering – Columbia University (2025)
-
-````
 
 ---
 
