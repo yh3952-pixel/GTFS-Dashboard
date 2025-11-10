@@ -72,14 +72,3 @@ Then open the displayed local URL (usually [http://localhost:8501](http://localh
 
 
 
----
-
-✅ 保存后执行：
-```bash
-git add README.md
-git commit -m "add project README"
-git push
-````
-
-然后刷新你的 GitHub 仓库页面（`https://github.com/yh3952-pixel/GTFS-Dashboard`），
-你会看到 README 自动渲染成美观的项目首页。
